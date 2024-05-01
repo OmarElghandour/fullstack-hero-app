@@ -1,7 +1,9 @@
-# Symfony docker template
+
+Live demo deployed on AWS 
+http://204.236.249.89/dashboard/
 
 ## Description
-Symfony docker template is a template to start a new symfony project with docker.
+Symfony docker setup With angular and nginx.
 
 - Symfony `6.4`
 - PHP `8.3`
